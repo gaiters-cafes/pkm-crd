@@ -2,8 +2,8 @@
 
 ## Requirements
 
-- [ ] Create a very simple CRD. 
-- [ ] Creating an instance of the CRD should create a pod and delete it when the instance is deleted.
+- [x] Create a very simple CRD. 
+- [x] Creating an instance of the CRD should create a pod and delete it when the instance is deleted.
 
 ## Setting the Custom Resource Definition
 
