@@ -1,0 +1,4 @@
+apiVersion: datacenter.com/v1
+kind: Pokemon
+metadata:
+  name: bulbasaur
